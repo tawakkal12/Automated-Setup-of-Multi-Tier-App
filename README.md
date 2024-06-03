@@ -1,7 +1,5 @@
-# Project-2: Vprofile Project: Automated Setup of Multi Tier App, Locally
+ Automated Setup of Multi Tier App, Locally
 
-[*Project Source*](https://www.udemy.com/course/devopsprojects/?src=sac&kw=devops+projects)
-![](images/vprofile-project.png)
 ## Prerequisites
 
  * Oracle VM VirtualBox Manager
